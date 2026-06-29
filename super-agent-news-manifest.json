@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5)",
+    "[venturebeat.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNbC1wMmtLNzR1NjYtTzJ0VXhqWVpSWWhzY1pYSHJBRm1ZZ1M0aXhlZkZHUWxEMk5PbVhZbkcxYVU4b05sNjlVMHZROTZ2VWpFcC03dl8tejQtWEwzUThNa0U2YzRGcjRScDdHVV9BMmVpXzloNVVBaGJsQ3J1M0tmbzZNNDJjNWtpdkM3YWIzbVloNjZLdU1pVFFVUHMtWnAwMlFrLUtmN0NpaE5FSS1ReUdlQk83WFlQWnFOVGx6dDZWaWpSSWhFUjBn?oc=5)",
+    "[dev.to](https://dev.to/velox-web/how-to-build-a-responsive-bento-grid-with-tailwind-css-no-masonryjs-3f2c)",
+    "[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/grid-auto-flow)"
+  ],
+  "design_plan": "Cinematic editorial landing with a two-line hero, premium typography (Satoshi + Cabinet Grotesk), recruiter-specific workflows, and responsive bento grids that explicitly use CSS grid-auto-flow: dense to avoid layout gaps. Subtle GSAP motion with safe guards. Clear AIDA flow to demo/CTA.",
+  "generated_at": "2026-06-29T18:48:35.902834+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion-focused niche landing page showing how Super\u2019s personal AI agents operate recruiting tools, reuse a computer-use cache, and reduce repeated sourcing and scheduling work\u2014positioned against ChatGPT, Gemini, Grok, Siri, Folk, and Orchids, with current market evidence."
+}
